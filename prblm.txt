@@ -1,0 +1,21 @@
+1/ parent id by parent category show on table
+1/ category by display updated selected category
+
+1/ create subdomain in public directory 
+2/ create a folder root directory
+3/ create a databse and create a database user
+4/ then upload these file 
+5/ create redirection of subdomain name
+6/ edit .env file
+
+
+perfectshop db config
+user: bammdoor_userperfectshop
+db: bammdoor_perfectshop
+pwd: userperfectshop
+
+hosting contact info
+
+1/মোবাইল - 01974272854
+
+
